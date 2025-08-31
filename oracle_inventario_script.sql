@@ -34,7 +34,7 @@ CREATE TABLE inventario (
 INSERT INTO producto (id, nombre,descripcion, precio) VALUES (producto_seq.NEXTVAL, 'Mouse inalámbrico','Equipo de computo', 25);
 INSERT INTO producto (id, nombre,descripcion, precio) VALUES (producto_seq.NEXTVAL, 'Panel Solar', 'Equipo electronico', 150);
 INSERT INTO producto (id, nombre,descripcion, precio) VALUES (producto_seq.NEXTVAL, 'Agua', 'Bebida natural', 1);
-INSERT INTO producto (id, nombre,descripcion, precio) VALUES (producto_seq.NEXTVAL, 'Aceite', 'Viveres' 10);
+INSERT INTO producto (id, nombre,descripcion, precio) VALUES (producto_seq.NEXTVAL, 'Aceite', 'Viveres', 10);
 INSERT INTO producto (id, nombre,descripcion, precio) VALUES (producto_seq.NEXTVAL, 'Laptop', 'Equipo de Computo', 1400);
 INSERT INTO producto (id, nombre,descripcion, precio) VALUES (producto_seq.NEXTVAL, 'Lámpara', 'Equipo Electronico', 25);
 
